@@ -3,7 +3,7 @@ Configuring snort and creating alert rules. Investigating logs.
 
 
 <h1> Project Overview</h1>
-In this project I configure Network IDS/IPS software, Snort, onto a Ubuntu Server hosted by AWS. I created custom alerts and generated logs pinging the server with my Kali Linux VM. This was very fun to test out and very educational. Not only was I able to learn how to configure this software, I was also able to get in some Linux training. 
+In this project, I configure Network IDS/IPS software, Snort, onto a Ubuntu Server hosted by AWS. I created custom alerts and generated logs pinging the server with my Kali Linux VM. This was very fun to test out and very educational. Not only was I able to learn how to configure this software, I was also able to get in some Linux training. 
 
 
 
