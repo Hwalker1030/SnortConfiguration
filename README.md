@@ -41,7 +41,7 @@ I thought that was interesting to see, I didn't expect seeing more than my Kali 
 ![ICMP IPS](https://github.com/user-attachments/assets/d56e23db-ce59-42d3-8900-17859ee7020a)
 
 
-That being said, the custom alerts are triggered by the Intrusion Detection System (IDS) based on predefined or dynamically configured rules, enabling the detection of suspicious network activity, potential security breaches, or anomalies. This is one of many tools Security Analyst use to detect malicious hackers. This was fun to set up and inspires me to test out more IDS/IPS software. Not only did I get more Linux experience from conducting this project, I was able to get an hands on experience analyzing network traffic. 
+That being said, the custom alerts are triggered by the Intrusion Detection System (IDS) based on predefined or dynamically configured rules, enabling the detection of suspicious network activity, potential security breaches, or anomalies. This is one of many tools security analyst use to detect malicious activity on a network. This was fun to set up and inspires me to test out more IDS/IPS software. Not only did I get more Linux experience from conducting this project, I was able to get an hands on experience analyzing network traffic. 
 
 
 
